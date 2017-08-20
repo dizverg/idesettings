@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="retthis" value="return $this;" description="return $this value" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
