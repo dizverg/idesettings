@@ -988,6 +988,12 @@
         <option name="BACKGROUND" value="272822" />
       </value>
     </option>
+    <option name="PHP_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="66d9ef" />
+        <option name="BACKGROUND" value="272822" />
+      </value>
+    </option>
     <option name="PHP_INSTANCE_METHOD">
       <value>
         <option name="FOREGROUND" value="66d9ef" />
